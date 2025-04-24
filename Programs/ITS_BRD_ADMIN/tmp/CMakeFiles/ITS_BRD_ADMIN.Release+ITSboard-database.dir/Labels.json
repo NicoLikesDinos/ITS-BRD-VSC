@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-database"
+		},
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-database.rule"
+		},
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-database.rule"
+		},
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-configure.rule"
+		},
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-patch.rule"
+		},
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-update.rule"
+		},
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-download.rule"
+		},
+		{
+			"file" : "C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ITS_BRD_ADMIN.Release+ITSboard"
+		],
+		"name" : "ITS_BRD_ADMIN.Release+ITSboard-database"
+	}
+}

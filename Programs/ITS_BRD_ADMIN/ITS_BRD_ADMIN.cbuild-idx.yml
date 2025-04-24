@@ -1,0 +1,19 @@
+build-idx:
+  generated-by: csolution version 2.8.0
+  cdefault: ${CMSIS_COMPILER_ROOT}/cdefault.yml
+  csolution: ITS_BRD_ADMIN.csolution.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: ITS_BRD_ADMIN.cproject.yml
+  cbuilds:
+    - cbuild: ITS_BRD_ADMIN.Release+ITSboard.cbuild.yml
+      project: ITS_BRD_ADMIN
+      configuration: .Release+ITSboard
+      messages:
+        info:
+          - ITS_BRD_ADMIN.cbuild-pack.yml - file is already up-to-date
+          - ITS_BRD_ADMIN+ITSboard.cbuild-run.yml - file generated successfully
+          - ITS_BRD_ADMIN.Release+ITSboard.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.14.2
+        - pack: ARM::CMSIS-NN@4.0.0

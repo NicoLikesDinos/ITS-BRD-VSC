@@ -1,0 +1,8 @@
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/database.dir
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard.dir
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-build.dir
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-configure.dir
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-executes.dir
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-database.dir
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/edit_cache.dir
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/rebuild_cache.dir

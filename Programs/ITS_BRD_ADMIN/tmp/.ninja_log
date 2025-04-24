@@ -1,0 +1,26 @@
+# ninja log v6
+44	225	7672073658159664	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-mkdir	b9412960459e7b0c
+44	225	7672073658159664	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-mkdir	b9412960459e7b0c
+226	388	7672073659780435	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-download	fc0ea8f2215abc10
+226	388	7672073659780435	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-download	fc0ea8f2215abc10
+389	546	7672073661362102	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-update	6b8ecc2adce440a9
+389	546	7672073661362102	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-update	6b8ecc2adce440a9
+547	707	7672073662988174	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-patch	9a4dfc1729bf257
+547	707	7672073662988174	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-patch	9a4dfc1729bf257
+708	13035	7672073786237707	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-configure	57382b43cff7f5b8
+708	13035	7672073786237707	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-configure	57382b43cff7f5b8
+13036	25099	7672073786367695	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-build	f1abafe17de95907
+13036	25099	7672073786367695	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/out/ITS_BRD_ADMIN/ITSboard/Release/ITS_BRD_ADMIN.axf	f1abafe17de95907
+13036	25099	7672073786367695	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-build	f1abafe17de95907
+25120	25318	7672073909047842	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-executes	3f56c7dea317ca7
+25120	25318	7672073909047842	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-executes	3f56c7dea317ca7
+25099	25605	7672073907006598	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-database	5d3e77929a2a5c6f
+25099	25605	7672073907006598	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-database	5d3e77929a2a5c6f
+25605	25868	7672073912064421	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-install	fd0e23a63b81fc33
+25605	25868	7672073912064421	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-install	fd0e23a63b81fc33
+25868	26076	7672073916659197	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-test	f30be6847dc3c536
+25868	26076	7672073916659197	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-test	f30be6847dc3c536
+26076	26317	7672073919040186	CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-complete	e18b2be1bbc04536
+26076	26317	7672073919040186	ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-done	e18b2be1bbc04536
+26076	26317	7672073919040186	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-complete	e18b2be1bbc04536
+26076	26317	7672073919040186	C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-done	e18b2be1bbc04536

@@ -1,0 +1,10 @@
+# Target labels
+ ITS_BRD_ADMIN.Release+ITSboard
+# Source files and their labels
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-configure
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/CMakeFiles/ITS_BRD_ADMIN.Release+ITSboard-configure.rule
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-configure.rule
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-patch.rule
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-update.rule
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-download.rule
+C:/Users/henpe/Desktop/ESE/Projekte/VS/ITS-BRD-VSC/Programs/ITS_BRD_ADMIN/tmp/ITS_BRD_ADMIN.Release+ITSboard/src/ITS_BRD_ADMIN.Release+ITSboard-stamp/ITS_BRD_ADMIN.Release+ITSboard-mkdir.rule
